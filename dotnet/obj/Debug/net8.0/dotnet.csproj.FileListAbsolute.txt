@@ -1,0 +1,14 @@
+/Users/will/AdventOfCode/dotnet/bin/Debug/net8.0/dotnet
+/Users/will/AdventOfCode/dotnet/bin/Debug/net8.0/dotnet.deps.json
+/Users/will/AdventOfCode/dotnet/bin/Debug/net8.0/dotnet.runtimeconfig.json
+/Users/will/AdventOfCode/dotnet/bin/Debug/net8.0/dotnet.dll
+/Users/will/AdventOfCode/dotnet/bin/Debug/net8.0/dotnet.pdb
+/Users/will/AdventOfCode/dotnet/obj/Debug/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/will/AdventOfCode/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfoInputs.cache
+/Users/will/AdventOfCode/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfo.cs
+/Users/will/AdventOfCode/dotnet/obj/Debug/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/will/AdventOfCode/dotnet/obj/Debug/net8.0/dotnet.dll
+/Users/will/AdventOfCode/dotnet/obj/Debug/net8.0/refint/dotnet.dll
+/Users/will/AdventOfCode/dotnet/obj/Debug/net8.0/dotnet.pdb
+/Users/will/AdventOfCode/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
+/Users/will/AdventOfCode/dotnet/obj/Debug/net8.0/ref/dotnet.dll
